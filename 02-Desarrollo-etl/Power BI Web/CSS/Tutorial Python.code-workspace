@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Users/yoloy/OneDrive/Documentos/Tutorial Python"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AnaliticaDeDatosParaNegociosDigitales",
+		"liveServer.settings.port": 5501
+	}
+}

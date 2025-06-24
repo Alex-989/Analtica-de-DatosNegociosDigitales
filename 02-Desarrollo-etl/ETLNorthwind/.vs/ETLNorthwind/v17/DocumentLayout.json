@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\Limpiar_Datamart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\Limpiar_Datamart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\05_Datamart_dimFacts.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\05_Datamart_dimFacts.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\03_Datamart_dimProducto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\03_Datamart_dimProducto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\02_Datamart_dimEmpleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\02_Datamart_dimEmpleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\01_Datamart_dimCliente.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\01_Datamart_dimCliente.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\Carga Master Datamart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\Carga Master Datamart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\Carga_Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\Carga_Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\06_Stage_Provedor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\06_Stage_Provedor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\04_Datamart_dimTiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\04_Datamart_dimTiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\04_Stage_Ventas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\04_Stage_Ventas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\03_Stage_Clientes.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\03_Stage_Clientes.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\01_Stage_Empleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\01_Stage_Empleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\05_Stage_Producto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\05_Stage_Producto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\02_Stage_Categorias.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\02_Stage_Categorias.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\07_Stage_Tiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\07_Stage_Tiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\Limpiar_Stage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DD277D0D-AD44-7F7D-D3B9-70C0CBEA6CE9}|ETLNorthwind\\Stage_Northwind.dtproj|solutionrelative:ETLNorthwind\\Limpiar_Stage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "04_Datamart_dimTiempo.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\04_Datamart_dimTiempo.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\04_Datamart_dimTiempo.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\04_Datamart_dimTiempo.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\04_Datamart_dimTiempo.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:03:52.982Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05_Datamart_dimFacts.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\05_Datamart_dimFacts.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\05_Datamart_dimFacts.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\05_Datamart_dimFacts.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\05_Datamart_dimFacts.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:03:57.392Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Limpiar_Datamart.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\Limpiar_Datamart.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\Limpiar_Datamart.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\Limpiar_Datamart.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\Limpiar_Datamart.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-03T20:29:26.958Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03_Datamart_dimProducto.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\03_Datamart_dimProducto.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\03_Datamart_dimProducto.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\03_Datamart_dimProducto.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\03_Datamart_dimProducto.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:03:49.976Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02_Datamart_dimEmpleado.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\02_Datamart_dimEmpleado.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\02_Datamart_dimEmpleado.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\02_Datamart_dimEmpleado.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\02_Datamart_dimEmpleado.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:03:46.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01_Datamart_dimCliente.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\01_Datamart_dimCliente.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\01_Datamart_dimCliente.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\01_Datamart_dimCliente.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\01_Datamart_dimCliente.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:03:42.598Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carga_Master.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\Carga_Master.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\Carga_Master.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\Carga_Master.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\Carga_Master.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T22:56:28.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Limpiar_Stage.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\Limpiar_Stage.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\Limpiar_Stage.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\Limpiar_Stage.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\Limpiar_Stage.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-03T20:30:39.774Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "07_Stage_Tiempo.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\07_Stage_Tiempo.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\07_Stage_Tiempo.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\07_Stage_Tiempo.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\07_Stage_Tiempo.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:34.116Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carga Master Datamart.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\Carga Master Datamart.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\Carga Master Datamart.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\Datamart_Northwind\\Carga Master Datamart.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\Carga Master Datamart.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-03T20:21:29.399Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "04_Stage_Ventas.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\04_Stage_Ventas.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\04_Stage_Ventas.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\04_Stage_Ventas.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\04_Stage_Ventas.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:58.148Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "05_Stage_Producto.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\05_Stage_Producto.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\05_Stage_Producto.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\05_Stage_Producto.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\05_Stage_Producto.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:42.848Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "06_Stage_Provedor.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\06_Stage_Provedor.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\06_Stage_Provedor.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\06_Stage_Provedor.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\06_Stage_Provedor.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:50.496Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "03_Stage_Clientes.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\03_Stage_Clientes.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\03_Stage_Clientes.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\03_Stage_Clientes.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\03_Stage_Clientes.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:54.063Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "02_Stage_Categorias.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\02_Stage_Categorias.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\02_Stage_Categorias.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\02_Stage_Categorias.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\02_Stage_Categorias.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:37.585Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01_Stage_Empleado.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\01_Stage_Empleado.dtsx",
+              "RelativeDocumentMoniker": "ETLNorthwind\\01_Stage_Empleado.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatosParaNegociosDigitales\\02-Desarrollo-etl\\ETLNorthwind\\ETLNorthwind\\01_Stage_Empleado.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETLNorthwind\\01_Stage_Empleado.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-05T23:02:46.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
